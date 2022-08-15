@@ -1,0 +1,16 @@
+body {
+    background-color: #fafafa !important;
+}
+
+.form-control:valid {
+    background-color:  #fafafa!important;
+}
+
+.bg-white, .input-bg input {
+    background-color: white !important;
+}
+
+.transparent-input {
+    background-color: rgba(0, 0, 0, 0);
+    border:none;
+ }
